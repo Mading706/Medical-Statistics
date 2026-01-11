@@ -5,8 +5,16 @@
 > —— **我们高处见。**
 
 ![LaTeX](https://img.shields.io/badge/Language-LaTeX-008080.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+![Template](https://img.shields.io/badge/Template-ElegantBook-orange.svg)
 ![JLU](https://img.shields.io/badge/JLU-First%20Clinical%20College-red.svg)
+
+## 📄 版权与协议 (License)
+
+本项目采用 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)** 协议进行许可。
+
+* **资料内容**：您可以自由地分享、修改本资料，但必须**署名**、**非商业使用**，且修改后的作品必须**以相同协议发布**。
+* **排版模版**：本项目基于 [ElegantBook](https://github.com/ElegantLaTeX/ElegantBook) 模板构建，模版代码遵循 **LPPL-1.3c** 协议。
 
 ## 📖 关于本项目
 
