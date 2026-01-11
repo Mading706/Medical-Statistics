@@ -1,4 +1,4 @@
-# 📘 医学统计学「速通」指南 (Medical Statistics Speed Run)
+# 📘 医学统计学 (Medical Statistics)
 
 > 愿你落笔生花，不仅能顺利通过期末的考验，更能在这个数据驱动的医学时代，握紧通向真理的钥匙。
 >
