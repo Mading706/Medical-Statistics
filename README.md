@@ -7,7 +7,7 @@
 ![LaTeX](https://img.shields.io/badge/Language-LaTeX-008080.svg)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 ![Template](https://img.shields.io/badge/Template-ElegantBook-orange.svg)
-![JLU](https://img.shields.io/badge/JLU-First%20Clinical%20College-red.svg)
+![JLU](https://img.shields.io/badge/JLU-The%20First%20Bethune%20Clinical%20Medical%20College-red.svg)
 
 ## 📄 版权与协议 (License)
 
