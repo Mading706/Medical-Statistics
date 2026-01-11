@@ -64,4 +64,12 @@
 - 🐛 提交 **Issue** 反馈问题；
 - 🔀 发起 **Pull Request** 参与修订。
 
-让我们一同
+让我们一同让我们一同修缮、维护，让这份互助的薪火在吉大医学人之间生生不息。
+
+---
+
+<div align="center">
+    <b>前路漫漫，愿这点微光，能与你同行一程。</b><br>
+    <br>
+    Made with ❤️ by JLU Med Students
+</div>
